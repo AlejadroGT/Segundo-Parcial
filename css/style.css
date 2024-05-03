@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background: linear-gradient(to right, black, purple);
+    padding: 10px 0;
+    position: fixed;
+    width: 100%; 
+    top: 0; 
+    z-index: 999;
+}
+
+nav {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 90px; 
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a i {
+    margin-right: 5px; 
+}
+#internet{
+    width: 1536px;
+    height: 1004px;
+}
+
+#section2{
+    background-color: rgb(208, 208, 208);
+}
+
+#section2 h1 {
+    margin-top: -6px;
+    padding: 70px;
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(to right, black, purple);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+#section3 h1 {
+    margin-top: -6px;
+    padding: 70px;
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(to right, black, purple);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+#section4{
+    background-color: rgb(208, 208, 208);
+}
+#section4 h1 {
+    margin-top: -6px;
+    padding: 70px;
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(to right, black, purple);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+#tren{
+    float: right;
+    
+}
+#section5 h1 {
+    margin-top: -6px;
+    padding: 70px;
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(to right, black, purple);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+#section6{
+    background:rgb(86, 26, 61);
+    color: white;
+}
